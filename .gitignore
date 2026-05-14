@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
