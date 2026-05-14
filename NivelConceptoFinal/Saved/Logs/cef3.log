@@ -1,35 +1,13 @@
-[30384:29044:0513/173727.734:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[30384:14612:0513/173727.774:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[30384:29044:0513/173727.786:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26764:25860:0513/173730.568:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-68123F3D97BA3227E721157C3C8208F5 will be ignored
-[27516:26380:0513/173731.566:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-530625B52F7D5659C137EDD4B8F4DB09 will be ignored
-[15000:28060:0513/173734.389:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[15000:28060:0513/173734.423:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[30384:2200:0513/173734.495:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15000:28060:0513/173746.205:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[15000:28060:0513/173754.543:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[30384:29044:0513/180413.277:ERROR:device_event_log_impl.cc(196)] [18:04:13.151] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[30384:2200:0513/180729.485:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/180934.467:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/181320.205:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/182215.372:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:29044:0513/183719.290:ERROR:device_event_log_impl.cc(196)] [18:37:18.969] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[30384:2200:0513/190111.498:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/191614.832:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/194418.152:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:29044:0513/194424.389:ERROR:device_event_log_impl.cc(196)] [19:44:24.352] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[15000:28060:0513/194428.397:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[15000:28060:0513/194429.087:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[15000:28060:0513/194438.382:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[15000:28060:0513/194452.215:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[30384:2200:0513/211314.845:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/211339.242:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:29044:0513/211339.464:ERROR:device_event_log_impl.cc(196)] [21:13:39.389] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[30384:29044:0513/214438.939:ERROR:device_event_log_impl.cc(196)] [21:44:38.699] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[30384:2200:0513/214747.487:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/214752.211:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:2200:0513/220139.882:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:29044:0513/224553.996:ERROR:device_event_log_impl.cc(196)] [22:45:53.757] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[30384:29044:0513/234536.757:ERROR:device_event_log_impl.cc(196)] [23:45:36.731] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[30384:2200:0514/011244.538:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30384:29044:0514/024756.706:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23540:23512:0514/105607.228:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23540:19048:0514/105607.431:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23540:23512:0514/105607.443:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19532:19604:0514/105618.713:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9D2780B69C4C660A3AE60AACD41AD16D will be ignored
+[20636:16764:0514/105620.391:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20636:16764:0514/105621.058:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20636:16764:0514/105632.051:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20636:16764:0514/105644.721:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23540:23512:0514/122524.579:ERROR:device_event_log_impl.cc(196)] [12:25:24.259] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[20636:16764:0514/122529.589:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20636:16764:0514/122529.941:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20636:16764:0514/122550.743:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23540:23512:0514/122617.163:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
