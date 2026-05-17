@@ -1,17 +1,13 @@
-[5568:20816:0515/201613.574:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5568:11580:0515/201613.708:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5568:20816:0515/201613.715:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1504:10464:0515/201619.548:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5D5477D2F343AE7A044005F768B5B034 will be ignored
-[6664:1056:0515/201621.900:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[5568:27132:0515/201622.034:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6664:1056:0515/201622.267:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[6664:1056:0515/201630.246:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[6664:1056:0515/201640.753:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[5568:20816:0515/211407.506:ERROR:device_event_log_impl.cc(196)] [21:14:07.185] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[5568:27132:0515/214340.686:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5568:27132:0516/001244.019:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6664:1056:0516/001253.909:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[6664:1056:0516/001254.576:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[6664:1056:0516/001304.565:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[6664:1056:0516/001314.673:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[5568:20816:0516/001442.748:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7364:19176:0516/223220.750:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7364:24292:0516/223220.789:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7364:19176:0516/223220.799:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20408:18544:0516/223223.521:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1A73860C7C74C3CBC8DCB62D6C080147 will be ignored
+[17604:6944:0516/223227.091:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17604:6944:0516/223227.124:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7364:24316:0516/223227.199:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17604:6944:0516/223242.141:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17604:6944:0516/223255.530:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7364:19176:0516/225205.874:ERROR:device_event_log_impl.cc(196)] [22:52:05.859] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[7364:19176:0516/232627.505:ERROR:device_event_log_impl.cc(196)] [23:26:27.267] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[7364:19176:0517/002143.733:ERROR:device_event_log_impl.cc(196)] [00:21:43.527] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[7364:19176:0517/002938.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
