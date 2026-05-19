@@ -1,6 +1,6 @@
-2026/05/17-13:24:59.987 4d48 Reusing MANIFEST C:\Users\ferna\Desktop\Github\NivelConceptoFinal\NivelConceptoFinal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/17-13:25:00.001 4d48 Recovering log #4
-2026/05/17-13:25:00.006 4d48 Reusing old log C:\Users\ferna\Desktop\Github\NivelConceptoFinal\NivelConceptoFinal\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
-2026/05/17-16:34:30.041 5244 Level-0 table #7: started
-2026/05/17-16:34:30.050 5244 Level-0 table #7: 73307 bytes OK
-2026/05/17-16:34:30.059 5244 Delete type=0 #4
+2026/05/18-20:54:52.078 10ac Reusing MANIFEST C:\Users\ferna\Desktop\Github\NivelConceptoFinal\NivelConceptoFinal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-20:54:52.087 10ac Recovering log #6
+2026/05/18-20:54:52.123 10ac Reusing old log C:\Users\ferna\Desktop\Github\NivelConceptoFinal\NivelConceptoFinal\Saved\webcache_6613\Default\Local Storage\leveldb/000006.log 
+2026/05/18-20:55:06.239 7d8 Level-0 table #10: started
+2026/05/18-20:55:06.245 7d8 Level-0 table #10: 63629 bytes OK
+2026/05/18-20:55:06.249 7d8 Delete type=0 #6
